@@ -1,0 +1,9 @@
+{
+    "name": "ristretto",
+    "version": "0.0.1",
+    "main": "index.html",
+    "ignore": [
+        "bower.json",
+        "README.md"
+    ],
+}
