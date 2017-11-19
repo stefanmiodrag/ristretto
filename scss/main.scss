@@ -1,0 +1,22 @@
+
+// ================================================
+// Third party modules
+// ================================================
+
+@font-face {font-family: ''; src:url('../assets/')}
+
+// ================================================
+// Your styles
+// ================================================
+
+@import 'variables';
+@import 'elements'; // stores all the styling
+
+// ================================================
+// Your components
+// ================================================
+
+@import './components/button';
+
+// create a new component for each recurring element
+// that you want to style.

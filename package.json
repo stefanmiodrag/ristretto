@@ -1,0 +1,23 @@
+{
+  "name": "ristretto",
+  "version": "1.0.0",
+  "description": "starting template for projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "node-sass --watch scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanmiodrag/ristretto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefanmiodrag/ristretto/issues"
+  },
+  "homepage": "https://github.com/stefanmiodrag/ristretto#readme",
+  "dependencies": {
+    "node-sass": "^4.7.1"
+  }
+}
