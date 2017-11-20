@@ -1,22 +1,23 @@
+//
+// this is an output file that brings together all parts 
+//
 
-// ================================================
+// =========================================================
 // Third party modules
-// ================================================
+// =========================================================
 
 @font-face {font-family: ''; src:url('../assets/')}
 
-// ================================================
+// =========================================================
 // Your styles
-// ================================================
+// =========================================================
 
-@import 'variables';
-@import 'elements'; // stores all the styling
+@import 'variables'; // contains global styles
+@import 'elements'; //  styling for larger layout components
 
-// ================================================
+// =========================================================
 // Your components
-// ================================================
+// =========================================================
 
+// contains each self-contained component in its own partial
 @import './components/button';
-
-// create a new component for each recurring element
-// that you want to style.
