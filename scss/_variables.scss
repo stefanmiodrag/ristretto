@@ -3,7 +3,11 @@
 // Sizing
 // ================================================
 
-$unit-basic: 18px; 
+$unit-basic: 18px;
+$unit-font: $unit-basic;
+$unit-container: 960px;
+$unit-spacing: $unit-basic * 2;
+$unit-line-height: 1.4;
 
 // ================================================
 // Colors

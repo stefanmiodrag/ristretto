@@ -2,3 +2,9 @@
 * {
   margin: 0;
 }
+
+.container {
+  margin: 0 auto;
+  max-width: $unit-container;
+  width: 90%;
+}
