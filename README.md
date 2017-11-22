@@ -50,4 +50,4 @@ By default, Valet serves your projects using the `.dev` extension. To visit the 
 
 ## Licensing
 
-This project is licensed under the terms of the ISC license. See the LICENSE.md file for more information.
+This project is licensed under the terms of the MIT license. See the LICENSE.md file for more information.
