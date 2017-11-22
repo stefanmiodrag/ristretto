@@ -1,4 +1,4 @@
-# ristretto
+# ☕️ ristretto
 
 ## Key Features
 
