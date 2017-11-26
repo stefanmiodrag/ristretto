@@ -2,7 +2,7 @@
 
 ## Key Features
 
-This template does not come with all batteries included, but it does provide a basic template for rapid development. Here's a quick rundown:
+This template doesn't come with all batteries included, but it does provide a basic template for rapid development. Here's a quick rundown:
 
 * Completely Node setup
 * Recommended `index.html` template
