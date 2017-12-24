@@ -11,7 +11,7 @@
 
 ### Install
 
-Once the dependencies have been downloaded, you may download this repository. Alternatively, you can clone this repository using the following command:
+Download this repository. Alternatively, you can clone this repository using the following command:
 
 ```sh
 $ git clone https://github.com/stefanmiodrag/ristretto
@@ -48,6 +48,6 @@ $ npm run watch
 
 By default, Valet serves your projects using the `.dev` extension. To visit the site, head to `<sites directory>.dev`.
 
-## Licensing
+### Licensing
 
 This project is licensed under the terms of the MIT license. See the LICENSE.md file for more information.
