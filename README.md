@@ -1,8 +1,8 @@
 # ☕️ ristretto
 
-## Key Features
+> **Note:** This template doesn't come with all batteries included, but it does provide a basic template for rapid development. Here's a quick rundown:
 
-This template doesn't come with all batteries included, but it does provide a basic template for rapid development. Here's a quick rundown:
+## Key Features
 
 * Completely Node setup
 * Recommended `index.html` template
