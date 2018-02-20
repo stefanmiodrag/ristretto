@@ -1,5 +1,5 @@
 {
-  "name": "hyper-island",
+  "name": "ristretto",
   "version": "1.0.0",
   "description": "A minimal template for any website project",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefanmiodrag/hyper-island.git"
+    "url": "git+https://github.com/stefanmiodrag/ristretto.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stefanmiodrag/hyper-island/issues"
+    "url": "https://github.com/stefanmiodrag/ristretto/issues"
   },
-  "homepage": "https://github.com/stefanmiodrag/hyper-island#readme",
+  "homepage": "https://github.com/stefanmiodrag/ristrettod#readme",
   "dependencies": {
     "node-sass": "^4.7.1"
   }
